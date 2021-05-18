@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-16T23:46:26 IST" name="Suite" finished-at="2021-05-16T23:46:26 IST" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2021-05-16T23:46:26 IST" name="Test" finished-at="2021-05-16T23:46:26 IST" duration-ms="42">
+      <class name="Android_Testing_Maven.Maven_android.API_test">
+        <test-method signature="API()[pri:0, instance:Android_Testing_Maven.Maven_android.API_test@625732]" started-at="2021-05-16T23:46:26 IST" name="API" finished-at="2021-05-16T23:46:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API -->
+      </class> <!-- Android_Testing_Maven.Maven_android.API_test -->
+      <class name="Android_Testing_Maven.Maven_android.selenium">
+        <test-method signature="f()[pri:0, instance:Android_Testing_Maven.Maven_android.selenium@50ad3bc1]" started-at="2021-05-16T23:46:26 IST" name="f" finished-at="2021-05-16T23:46:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Android_Testing_Maven.Maven_android.selenium -->
+      <class name="Android_Testing_Maven.Maven_android.App">
+        <test-method signature="app()[pri:0, instance:Android_Testing_Maven.Maven_android.App@6c130c45]" started-at="2021-05-16T23:46:26 IST" name="app" finished-at="2021-05-16T23:46:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app -->
+      </class> <!-- Android_Testing_Maven.Maven_android.App -->
+      <class name="Android_Testing_Maven.Maven_android.Android_testing">
+        <test-method signature="android()[pri:0, instance:Android_Testing_Maven.Maven_android.Android_testing@223aa2f7]" started-at="2021-05-16T23:46:26 IST" name="android" finished-at="2021-05-16T23:46:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- android -->
+      </class> <!-- Android_Testing_Maven.Maven_android.Android_testing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Android_Testing_Maven.Maven_android.API_test"/>
+      <class name="Android_Testing_Maven.Maven_android.App"/>
+      <class name="Android_Testing_Maven.Maven_android.selenium"/>
+      <class name="Android_Testing_Maven.Maven_android.Android_testing"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
